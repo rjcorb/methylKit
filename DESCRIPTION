@@ -23,7 +23,7 @@ LazyLoad: yes
 LinkingTo: Rcpp, Rhtslib, zlibbioc
 biocViews: DNAMethylation, Sequencing, MethylSeq
 Depends:
-    R (>= 3.3.0),
+    R (>= 3.2.0),
     GenomicRanges (>= 1.18.1),
     methods
 Imports:
